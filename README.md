@@ -87,11 +87,14 @@ void pushbutton()
 ## Output  :
 ### When NOT Clicked :
  <img width="283" alt="1" src="https://github.com/Pavan-Gv/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94827772/840a511d-ad0b-4132-a76b-cf563d4b6108">
+ 
 ### When Clicked :
 ### Case 1: On State
+![Uploading 2.png…]()
 
 ### Case 2: Off State
-<img width="288" alt="3" src="https://github.com/Pavan-Gv/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94827772/fb528696-2c9f-4692-baa6-a10e4bb4cc8b">
+<img width="288" alt="3" src="https://github.com/Pavan-Gv/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94827772/d3b9a9c4-c4dd-477a-9580-ef12351cc2f9">
+
 
  
 ## Result :
