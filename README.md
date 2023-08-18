@@ -90,9 +90,11 @@ void pushbutton()
  
 ### When Clicked :
 ### Case 1: On State
-![Uploading 2.png…]()
+
+<img width="275" alt="2" src="https://github.com/Pavan-Gv/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94827772/93f0d7a5-2e4e-431f-9f4f-33d63827d3a8">
 
 ### Case 2: Off State
+
 <img width="288" alt="3" src="https://github.com/Pavan-Gv/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94827772/d3b9a9c4-c4dd-477a-9580-ef12351cc2f9">
 
 
